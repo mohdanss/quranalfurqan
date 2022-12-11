@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="bismillah">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</string>
+    <string name="app_name">Al Quran</string>
+    <string name="app_name2">Quran Al Furqan</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="surah">Surah</string>
+    <string name="ayah">Ayah</string>
+    <string name="translation">Translation</string>
+    <string name="ayah_number">Ayah Number</string>
+    <string name="surah_number">Surah Number 1-114)</string>
+    <string name="parah_number">Parah Number</string>
+    <string name="search_ayah">Search the ayah</string>
+    <string name="showing_res">Showing result</string>
+    <string name="search">Search</string>
+</resources>
