@@ -81,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
 
         prev_ayah_button.setEnabled(false);
         next_ayah_button.setEnabled(false);
+
         curr_ayah_number.setTextColor(getResources().getColor(R.color.dark_golden));
         curr_ayah_number.setHint("Choose Surah First");
         search_button.setEnabled(false);

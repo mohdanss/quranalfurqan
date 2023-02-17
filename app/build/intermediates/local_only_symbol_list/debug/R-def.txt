@@ -17,6 +17,7 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable icons8_github
 font alata
 font coda
 id ayah_number_ip
